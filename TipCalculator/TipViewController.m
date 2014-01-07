@@ -74,6 +74,7 @@
 - (void)viewWillAppear:(BOOL)animated {
     int defaultIndex = [SettingsViewController loadDefaultIndex];
     self.tipControl.selectedSegmentIndex = defaultIndex;
+    [self updateValues];
 }
 
 @end

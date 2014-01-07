@@ -9,7 +9,7 @@
                 <outlet property="billTextField" destination="nGo-jc-SzH" id="I01-ix-6Yh"/>
                 <outlet property="tipControl" destination="cdT-GB-sLQ" id="byY-gg-c0h"/>
                 <outlet property="tipLabel" destination="rJH-2k-q0N" id="jH0-DM-eUR"/>
-                <outlet property="totalLabel" destination="rJH-2k-q0N" id="Dz6-NL-Kil"/>
+                <outlet property="totalLabel" destination="XDm-Gq-jd5" id="a8s-ZJ-9DV"/>
                 <outlet property="view" destination="1" id="8uj-yt-R60"/>
             </connections>
         </placeholder>
